@@ -57,7 +57,3 @@ This project uses a local JSON server to simulate an API. The server uses the `d
 
 - **GET** `/locations`: Get all housing locations.
 - **GET** `/locations/:id`: Get a housing location by ID.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
